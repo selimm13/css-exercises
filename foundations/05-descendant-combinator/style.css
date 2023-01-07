@@ -1,0 +1,6 @@
+.container .text {
+    background-color: hsla(60, 100%, 50%, 1.0);
+    color: hsla(0, 100%, 50%, 1.0);
+    font-size: 20px;
+    text-align: center;
+}
