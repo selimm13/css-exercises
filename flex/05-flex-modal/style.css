@@ -24,12 +24,6 @@ body {
   display: flex;
 }
 
-.icon-container {
-  display: flex;
-  justify-content: center;
-  align-items: flex-start;
-}
-
 .icon {
   color: royalblue;
   font-size: 26px;
@@ -41,12 +35,6 @@ body {
   display: flex;
   align-items: center;
   justify-content: center;
-}
-
-.header-container {
-  display: flex;
-  justify-content: space-between;
-  align-items: center;
 }
 
 .header {
