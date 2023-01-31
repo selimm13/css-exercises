@@ -42,6 +42,10 @@ input {
   justify-content: space-between;
 }
 
+.footer {
+  background: #eee;
+}
+
 ul {
   display: flex;
   gap: 16px;
