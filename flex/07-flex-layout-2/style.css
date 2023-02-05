@@ -15,7 +15,7 @@ body {
   align-items: center;
   font-size: 32px;
   font-weight: 900;
-  padding-left: 10px;
+  padding-left: 16px;
 }
 
 .footer {
@@ -69,5 +69,4 @@ a {
   border: 1px solid #eee;
   box-shadow: 2px 4px 16px rgba(0,0,0,.06);
   border-radius: 4px;
-  box-sizing: border-box;
 }
