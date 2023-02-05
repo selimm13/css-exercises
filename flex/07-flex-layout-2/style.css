@@ -10,6 +10,12 @@ body {
   height: 72px;
   background: darkmagenta;
   color: white;
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  font-size: 32px;
+  font-weight: 700;
+  padding-left: 10px;
 }
 
 .footer {
